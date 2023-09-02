@@ -1,0 +1,11 @@
+{
+  "date": "2023-09-02",
+  "mensaje": "Transferencia realizada con éxito!",
+  "status": "OK",
+  "transaccion": {
+    "bancoId": 1,
+    "cuentaDestinoId": 2,
+    "cuentaOrigenId": 1,
+    "monto": 100
+  }
+}
